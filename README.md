@@ -6,6 +6,10 @@ This interactive Python project uses **Turtle Graphics** and **Pandas** to creat
 
 
 
+https://github.com/user-attachments/assets/54ecbe5c-cae1-41d1-929c-5c21a4680c05
+
+
+
 ## Features
 - Choose between guessing **States** or **Union Territories**.
 - Tracks the number of correct guesses and displays them dynamically.
